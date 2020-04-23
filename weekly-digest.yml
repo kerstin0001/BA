@@ -1,5 +1,5 @@
    ```yaml
-   # Configuration for weekly-digest - https://github.com/apps/weekly-digest-ks
+   # Configuration for weekly-digest - https://github.com/apps/weekly-digest
    publishDay: thu
    canPublishIssues: true
    canPublishPullRequests: true
