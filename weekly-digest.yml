@@ -1,6 +1,6 @@
    ```yaml
    # Configuration for weekly-digest - https://github.com/apps/weekly-digest-ks
-   publishDay: sun
+   publishDay: thu
    canPublishIssues: true
    canPublishPullRequests: true
    canPublishContributors: true
